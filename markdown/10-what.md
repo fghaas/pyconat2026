@@ -2,7 +2,7 @@
 Okay, so what's an LMS?
 
 
-# LMS
+## LMS
 Learning Management System
 
 <!-- Note -->
@@ -11,13 +11,13 @@ A *Learning Management System* or LMS encompasses everything you need to teach p
 To the people working with it, an LMS can be like a virtual school, or university, or professional learning centre, or even a lab.
 
 
-# An LMS lets you...
+## An LMS lets you...
 
 <!-- Note -->
 Let's take a quick look at what we generally expect to be able to do, as learners or teachers at such an institution or organization.
 
 
-# What an LMS enables you to do <!-- .element class="hidden" -->
+## What an LMS enables you to do <!-- .element class="hidden" -->
 
 <span>learn</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 <span>| teach</span> <!-- .element class="fragment fade-in-then-semi-out" -->
@@ -34,7 +34,7 @@ Let's take a quick look at what we generally expect to be able to do, as learner
 <span>| certify</span> <!-- .element class="fragment fade-in-then-semi-out" -->
 
 
-# FOSS Learning Platforms
+## FOSS Learning Platforms
 
 <!-- Note -->
 Now learning platforms generally come in two major categories:
@@ -49,3 +49,5 @@ Moodle is a free software project that has been around for ages, that has a vibr
 But Moodle isn't the only such project! It turns out that there is another, which has also been around for more than a decade, has an equally vibrant community, and is licensed under an even stronger copyleft license than the GPL is.
 
 Plus, and this makes this relevant to our conference today, it isn't built around a PHP codebase like Moodle is, but around a Python one.
+
+
