@@ -49,5 +49,3 @@ Moodle is a free software project that has been around for ages, that has a vibr
 But Moodle isn't the only such project! It turns out that there is another, which has also been around for more than a decade, has an equally vibrant community, and is licensed under an even stronger copyleft license than the GPL is.
 
 Plus, and this makes this relevant to our conference today, it isn't built around a PHP codebase like Moodle is, but around a Python one.
-
-

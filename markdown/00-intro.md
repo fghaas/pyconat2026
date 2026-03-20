@@ -11,6 +11,7 @@ Please do this especially if you're visually impaired or are sitting far back.
 
 If you are sensitive to light or prone to migraines and therefore cannot stare at the bright screen for a lengthy time, please select the small blue link at the bottom left, where you can choose the dark theme.
 
+
 # Open edX
 The "other" open source LMS
 
