@@ -44,7 +44,9 @@ Reveal.initialize({
     },
 
 
-
+    markdown: {
+	smartypants: true,
+    },
 
     dependencies: [
        { src: 'https://multiplex.up.railway.app/socket.io/socket.io.js', async: true },
