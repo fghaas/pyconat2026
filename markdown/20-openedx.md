@@ -11,7 +11,9 @@ Open edX is a free and open learning platform that has existed for more than a d
 ![MIT seal](images/mit.svg)
 
 <!-- Note -->
-The origins of what today is Open edX lie at the [Massachusetts Institute of Technology (MIT)](https://mit.edu), in a program launched in late 2011 as [MITx](https://mitxonline.mit.edu/).
+> Image source: https://en.wikipedia.org/wiki/File:MIT_Seal.svg
+
+The roots of what today is Open edX originated with [Massachusetts Institute of Technology (MIT)](https://mit.edu), in a program launched in late 2011 as [MITx](https://mitxonline.mit.edu/).
 
 
 ## Harvard <!-- .element class="hidden" -->
@@ -19,8 +21,9 @@ The origins of what today is Open edX lie at the [Massachusetts Institute of Te
 ![Harvard University coat of arms](images/harvard.svg)
 
 <!-- Note -->
+> Image source: https://commons.wikimedia.org/wiki/File:Harvard_University_coat_of_arms.svg
 
-MIT first teamed up with their friends across the river ([Harvard University](https://www.harvard.edu/)),
+MIT first teamed up with their friends across the river ([Harvard University](https://www.harvard.edu/)) in May 2012,
 
 
 ## Stanford <!-- .element class="hidden" -->
@@ -28,19 +31,21 @@ MIT first teamed up with their friends across the river ([Harvard University](ht
 ![Stanford University seal](images/stanford.svg)
 
 <!-- Note -->
+> Image source: https://commons.wikimedia.org/wiki/File:Seal_of_Leland_Stanford_Junior_University.svg
 
-... and then their friends across the country ([Stanford University](https://www.stanford.edu)) ...
+... and then their friends across the country ([Stanford University](https://www.stanford.edu)) in April 2013 ...
 
 
 ## edX <!-- .element class="hidden" -->
 
-![edX logo](images/edX.svg)
+![Original edX logo (from 2013)](images/edx-original-logo.svg)
 
 <!-- Note -->
+> Image source: https://commons.wikimedia.org/wiki/File:EdX.svg
 
 ... to form a consortium named [edX](https://www.edx.org/), in a clear extension of the "MITx" theme.
 
-And in 2013, that consortium released its entire software stack under a copyleft license to become...
+And in June of 2013, that consortium released its entire software stack under a copyleft license to become...
 
 
 ## Open edX <!-- .element class="hidden" -->
