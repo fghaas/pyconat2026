@@ -45,6 +45,9 @@ MIT first teamed up with their friends across the river ([Harvard University](ht
 
 ... to form a consortium named [edX](https://www.edx.org/), in a clear extension of the "MITx" theme.
 
+That consortium then quickly expanded outside the realm of tertiary education where it originated, and into professional education in industry.
+(One then-unlikely early adopter and supporter of Open edX was Microsoft.)
+
 And in June of 2013, that consortium released its entire software stack under a copyleft license to become...
 
 
@@ -55,6 +58,10 @@ And in June of 2013, that consortium released its entire software stack under a 
 
 Now when I say "released its entire software stack", that doesn't just mean the LMS itself but *everything* that is related to it.
 This includes, most importantly, all the deployment automation --- which is crucially important for a complex platform such as this.
+
+(Side note: what became of the edX consortium and its relationship to Open edX is an interesting subject that I won't get into here.
+
+Let's just leave it at the fact that the Open edX codebase is *still* owned by a not-for-profit organisation that has gone through a few cycles of renaming and restructuring, and is now called the *Axim Collaborative* with its website at [www.axim.org](https://www.axim.org).)
 
 
 ## Python <!-- .element class="hidden" -->
