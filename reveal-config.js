@@ -12,6 +12,7 @@ Reveal.initialize({
 
     transition: 'fade',
     navigationMode: 'linear',
+    scrollActivationWidth: null,
 
     totalTime: 40 * 60,
 
