@@ -1,5 +1,6 @@
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
+
 Reveal.initialize({
 
     controls: false,
@@ -17,17 +18,7 @@ Reveal.initialize({
 
     menu: {
 
-        themes: [
-	    {
-		name: 'Black',
-		theme: 'reveal.js/dist/theme/black.css'
-	    },
-	    {
-		name: 'White',
-		theme: 'reveal.js/dist/theme/white.css'
-	    }
-	],
-        themesPath: 'reveal.js/dist/theme',
+        themes: false,
 
         transitions: false,
         openButton: false,

@@ -21,16 +21,15 @@
 
     <!-- reveal.js CSS theme and local overrides -->
     <link rel="stylesheet" href="reveal.js/dist/reveal.css"/>
-    <link rel="stylesheet" href="reveal.js/dist/theme/white.css" id="theme"/>
+    <link rel="stylesheet" href="reveal.js/dist/theme/white.css" type="text/css" media="(prefers-color-scheme: light)"/>
+    <link rel="stylesheet" href="reveal.js/dist/theme/black.css" type="text/css" media="(prefers-color-scheme: dark)"/>
     <link rel="stylesheet" href="css/reveal-override.css"/>
 
 
     <!-- For syntax highlighting -->
 
-    <link rel="stylesheet" href="highlight.js/src/styles/a11y-light.css" />
-
-
-
+    <link rel="stylesheet" href="highlight.js/src/styles/a11y-light.css" media="(prefers-color-scheme: light)"/>
+    <link rel="stylesheet" href="highlight.js/src/styles/a11y-dark.css" media="(prefers-color-scheme: dark)"/>
 
   </head>
   <body>
@@ -99,6 +98,5 @@
     <script src="multiplex-config.js"></script>
 
     <script src="reveal-config.js"></script>
-
   </body>
 </html>
