@@ -10,7 +10,7 @@ The slides on your device will run in sync with mine here.
 
 Please do this especially if you're visually impaired or are sitting far back.
 
-If you are sensitive to light or prone to migraines and therefore cannot stare at the bright screen for a lengthy time, please select the small blue link at the bottom left, where you can choose the dark theme.
+If you are sensitive to light or prone to migraines and therefore cannot stare at the bright screen for a lengthy time, then also scan this and --- assuming your device is set to dark mode --- you will get this slide deck with a dark theme.
 
 And if you are hard of hearing, or are having trouble following my accent, or English isn't your first language, feel free to open this on your device and then double-tap on your screen, which will open my complete speaker notes.
 That means that you'll effectively get me with subtitles.
