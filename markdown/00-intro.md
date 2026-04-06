@@ -11,6 +11,9 @@ Please do this especially if you're visually impaired or are sitting far back.
 
 If you are sensitive to light or prone to migraines and therefore cannot stare at the bright screen for a lengthy time, please select the small blue link at the bottom left, where you can choose the dark theme.
 
+And if you are hard of hearing, or are having trouble following my accent, or English isn't your first language, feel free to open this on your device and then double-tap on your screen, which will open my complete speaker notes.
+That means that you'll effectively get me with subtitles.
+
 
 # Open edX
 The "other" open source LMS
@@ -22,4 +25,4 @@ Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 pycon.at 2026 | 2026-04-20
 
 <!-- Note -->
-A brief technical introduction to the Open edX Learning Management System (LMS).
+This is a brief introduction to the Open edX Learning Management System (LMS).
