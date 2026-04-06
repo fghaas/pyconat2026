@@ -11,7 +11,7 @@ Reveal.initialize({
     showNotes: false,
 
     transition: 'fade',
-
+    navigationMode: 'linear',
 
     totalTime: 40 * 60,
 
