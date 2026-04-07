@@ -14,6 +14,8 @@ This is what you need to run an Open edX platform:
 
 ## Tutor <!-- .element class="hidden" -->
 
+![Tutor logo](images/tutor-logo.svg)
+
 <!-- Note -->
 The recommended and community-supported method to deploy Open edX is a container orchestrator named **Tutor**.
 
