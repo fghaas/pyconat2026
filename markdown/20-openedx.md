@@ -1,5 +1,7 @@
 # Open edX <!-- .element class="hidden" -->
 
+![Open edX logo](images/open-edx-logo.svg)
+
 <!-- Note -->
 And this is where Open edX comes in!
 
@@ -53,6 +55,8 @@ And in June of 2013, that consortium released its entire software stack under a 
 
 ## Open edX <!-- .element class="hidden" -->
 
+![Open edX logo](images/open-edx-logo.svg)
+
 <!-- Note -->
 ... Open edX proper.
 
@@ -65,6 +69,10 @@ Let's just leave it at the fact that the Open edX codebase is *still* owned by 
 
 
 ## Python <!-- .element class="hidden" -->
+
+![Python logo](images/python.svg)
+
+![Django logo](images/django.svg) <!-- .element class="fragment" -->
 
 <!-- Note -->
 And from the beginning, this stack was very heavily Python-centric.
