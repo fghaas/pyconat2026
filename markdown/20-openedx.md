@@ -1,5 +1,7 @@
 # Open edX <!-- .element class="hidden" -->
 
+![Open edX logo](images/open-edx-logo.svg)
+
 <!-- Note -->
 And this is where Open edX comes in!
 
@@ -53,6 +55,8 @@ And in June of 2013, that consortium released its entire software stack under a 
 
 ## Open edX <!-- .element class="hidden" -->
 
+![Open edX logo](images/open-edx-logo.svg)
+
 <!-- Note -->
 ... Open edX proper.
 
@@ -66,6 +70,10 @@ Let's just leave it at the fact that the Open edX codebase is *still* owned by 
 
 ## Python <!-- .element class="hidden" -->
 
+![Python logo](images/python.svg)
+
+![Django logo](images/django.svg) <!-- .element class="fragment" -->
+
 <!-- Note -->
 And from the beginning, this stack was very heavily Python-centric.
 
@@ -78,7 +86,9 @@ Deployment has also shifted towards containerisation, with the platform now bein
 This whole evolution is a completely separate story that I could fill a whole talk with, so I won't get into that today, but as it turns out I **have** done a whole talk on that topic, at PyCon Italia, and if you're interested here's the YouTube link for that:
 
 
-## PyCon Italia YouTube link <!-- .element class="hidden" -->
+## Quit Simplifying!
+
+(PyCon Italia 2024)
 
 ![Quit Simplifying!](images/quit-simplifying.svg)
 

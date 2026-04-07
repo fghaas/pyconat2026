@@ -11,6 +11,6 @@ Rendered slides from this presentation are at <https://xahteiwi.eu/pyconat2026>.
 
 * * *
 
-Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from /home/florian/git/cookiecutter-presentation.
+Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from <https://codeberg.org/fghaas/cookiecutter-presentation>.
 
 License: CC-BY-SA
