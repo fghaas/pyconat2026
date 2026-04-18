@@ -19,4 +19,14 @@ We can define virtual networks, servers, volumes, routers,... you name it.
 
 We then use asynchronous task processing via Celery to spin up such a stack, and have the learner connect to it right from within their browser using Apache Guacamole.
 
+
+## Get Interactive!
+
+(DjangoCon US 2021)
+
+![Get interactive! Putting a shell or a desktop in your Django app](images/get-interactive.svg)
+
+<https://youtu.be/kbrHW--ZLUc>
+
+<!-- Note -->
 How that works in detail is something that my colleagues and I have covered in several conference talks; <https://youtu.be/kbrHW--ZLUc> (from DjangoCon US in 2021) is one of them.

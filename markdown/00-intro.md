@@ -27,3 +27,18 @@ pycon.at 2026 | 2026-04-20
 
 <!-- Note -->
 This is a brief introduction to the Open edX Learning Management System (LMS).
+
+I have been using Open edX for more than 10 years, and I still use it on a daily basis.
+My team and I operate several Open edX platforms as part of my day job.
+
+I work at Cleura, we are a European cloud services provider based in Sweden, I am the head of education and professional services there, and this...
+
+
+## Cleura Cloud Academy <!-- .element class="hidden" -->
+
+[academy.cleura.cloud](https://academy.cleura.cloud)
+
+<!-- Note -->
+... is the platform that my team and I maintain.
+
+You're welcome to take a look.
