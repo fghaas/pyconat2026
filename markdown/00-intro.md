@@ -21,7 +21,7 @@ The "other" open source LMS
 
 * * *
 
-Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
+Florian Haas | [Cleura](https://cleura.com) | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 
 pycon.at 2026 | 2026-04-20
 
